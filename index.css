@@ -1,0 +1,133 @@
+*{
+    margin:0;
+}
+.top{
+    background-color: #496ab3;
+    font-size: 16px;
+    height: 80px;
+}
+.logo{
+    font-size: 48px;
+    font-family: 'Itim', cursive;
+    color:#ffff;
+    float:left;
+    margin-top:7px;
+    margin-left: 15%;
+    margin-top: 0px;
+    letter-spacing: 5px;
+}
+
+.credential{
+    margin:9px;
+    color:#ffff;
+    float:right;
+    margin-right:9%;
+    font-family:'Times New Roman', Times, serif;
+    font-size: small;
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+button{
+    background-color: #29487d;
+    color:white;
+    border:none;
+}
+.bottom{
+    height:480px;
+    background: linear-gradient(white,#D3D8E8);
+}
+.image{
+
+    float:left;
+    width:55%;
+    margin-top:5%;
+}
+img{
+    width:70%;
+    height:auto;
+    float:right;
+    margin-right: 7%;
+}
+.form{
+    float:right;
+    width:45%;
+}
+h1{
+    font-family:'Arial, Helvetica, sans-serif';
+    font-size:large;
+    width:480px;
+    float:right;
+    margin-right:9%;
+}
+.form  h1{
+    font-size: 36px;
+    margin-left:5px;
+}
+.form  h3{
+    font-size: 15px;
+    margin-top:5px;
+    margin-left:5px;
+    font-weight:normal;
+}
+
+.form input{
+    padding:8px 10px;
+    font-size:18px;
+    border-color: #bdc7d8;
+    width: 377px;
+    background-color: #fff;
+    border:1px solid #ccd0d5;
+    margin:5px;
+}
+#fname{
+    width:170px;
+    margin-top: 20px;
+}
+#lname{
+    width:170px;
+    margin-top: 20px;
+}
+#birthday{
+    margin-top: 20px;
+    float:left;
+}
+#male{
+    width:40px;
+    margin-top: 15px;
+}
+#female{
+    width:40px;
+    margin-top: 15px;
+}
+#other{
+    width:40px;
+    margin-top: 15px;
+}
+.form1 p{
+    font-size: 12px;
+    margin-top:2%;
+    margin-left:5px;
+    margin-right: 36%;
+    font-weight:normal;
+}
+.ttt a{
+    color: rgb(63, 99, 177);
+}
+.form button{
+    background-color: #695d1a;
+    color:white;
+    text-align: center;
+    margin: 10px;
+    border: #776b26;
+    width: 190px;
+    padding: 7px;
+    border-radius: 4px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: medium;
+
+}
+
+
+
